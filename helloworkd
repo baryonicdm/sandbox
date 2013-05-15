@@ -25,6 +25,7 @@ from master
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -59,4 +60,10 @@ from local
 from local
 v
 v
+=======
+from local
+from local
+from local
+from local
+>>>>>>> refs/heads/master
 v
